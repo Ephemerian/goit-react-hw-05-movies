@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/goit-react-hw-05-movies/static/css/main.1ea7c751.css",
-    "main.js": "/goit-react-hw-05-movies/static/js/main.edafadfe.js",
+    "main.js": "/goit-react-hw-05-movies/static/js/main.f9b724d0.js",
     "static/js/485.0e96ceaf.chunk.js": "/goit-react-hw-05-movies/static/js/485.0e96ceaf.chunk.js",
-    "static/js/550.014d630a.chunk.js": "/goit-react-hw-05-movies/static/js/550.014d630a.chunk.js",
+    "static/js/550.ccdd8536.chunk.js": "/goit-react-hw-05-movies/static/js/550.ccdd8536.chunk.js",
     "static/js/909.75a72020.chunk.js": "/goit-react-hw-05-movies/static/js/909.75a72020.chunk.js",
     "static/js/369.45844860.chunk.js": "/goit-react-hw-05-movies/static/js/369.45844860.chunk.js",
     "static/js/324.7cb8a07d.chunk.js": "/goit-react-hw-05-movies/static/js/324.7cb8a07d.chunk.js",
@@ -11,9 +11,9 @@
     "index.html": "/goit-react-hw-05-movies/index.html",
     "static/media/search-icon.svg": "/goit-react-hw-05-movies/static/media/search-icon.9235c639bbe8af5b4cf247f3c21e645b.svg",
     "main.1ea7c751.css.map": "/goit-react-hw-05-movies/static/css/main.1ea7c751.css.map",
-    "main.edafadfe.js.map": "/goit-react-hw-05-movies/static/js/main.edafadfe.js.map",
+    "main.f9b724d0.js.map": "/goit-react-hw-05-movies/static/js/main.f9b724d0.js.map",
     "485.0e96ceaf.chunk.js.map": "/goit-react-hw-05-movies/static/js/485.0e96ceaf.chunk.js.map",
-    "550.014d630a.chunk.js.map": "/goit-react-hw-05-movies/static/js/550.014d630a.chunk.js.map",
+    "550.ccdd8536.chunk.js.map": "/goit-react-hw-05-movies/static/js/550.ccdd8536.chunk.js.map",
     "909.75a72020.chunk.js.map": "/goit-react-hw-05-movies/static/js/909.75a72020.chunk.js.map",
     "369.45844860.chunk.js.map": "/goit-react-hw-05-movies/static/js/369.45844860.chunk.js.map",
     "324.7cb8a07d.chunk.js.map": "/goit-react-hw-05-movies/static/js/324.7cb8a07d.chunk.js.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.1ea7c751.css",
-    "static/js/main.edafadfe.js"
+    "static/js/main.f9b724d0.js"
   ]
 }
