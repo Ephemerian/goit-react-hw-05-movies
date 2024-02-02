@@ -16,6 +16,10 @@ const Movies = () => {
     const getQuery = query.get('query') || '';
 
     useEffect(() => {
+        if(!getQuery)
+            {
+                return;
+            }
         setLoader(true);
         const fetchMovie = async () => {
             try {
